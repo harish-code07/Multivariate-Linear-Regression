@@ -52,10 +52,7 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5869444-2408-47de-818a-36a128601601" />
 
 
-### Insert your output
-Coefficients: [0.00755095 0.00780526]
-Intercept: 79.69471929115939
-Predicted CO2 for the corresponding weight and volume: [114.75968007]
+
 
 <br>
 
